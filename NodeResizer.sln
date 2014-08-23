@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeResizer", "NodeResizer\NodeResizer.csproj", "{36714486-1F23-4092-B233-AB25F36AB120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36714486-1F23-4092-B233-AB25F36AB120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36714486-1F23-4092-B233-AB25F36AB120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36714486-1F23-4092-B233-AB25F36AB120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36714486-1F23-4092-B233-AB25F36AB120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NodeResizer\NodeResizer.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.ElseIfNewLinePlacement = SameLine
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 120
+		$4.TabsToSpaces = False
+		$4.inheritsSet = VisualStudio
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$5.Text = 
+		$5.IncludeInNewFiles = True
+		description = @KSP- Resizes attachment nodes after launch\nfor sturdier attachments. So you can use small nodes in VAB for\neasy attaching.
+		version = 1.0
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
