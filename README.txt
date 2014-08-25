@@ -5,7 +5,8 @@ Purpose: Allow the use of tiny attachment nodes in the VAB/SPH for easier snappi
 multiple larger nodes overlap. (which makes it harder to control which one is snapped to)
 
 Usage:
-	node_stack_top = 0.0, 0.125, 0.0, 0.0, 1.0, 0.0, 0 // A node you’re having trouble attaching because its desired size engulfs nearby nodes. Set to size 0.
+	// A node you’re having trouble attaching because its desired size engulfs nearby nodes. Set to size 0.
+	node_stack_top = 0.0, 0.125, 0.0, 0.0, 1.0, 0.0, 0 
 
 	MODULE
 	{
